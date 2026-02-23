@@ -548,7 +548,7 @@ class TopHatAPIMonitor:
             if propublica_url:
                 nonprofit_html = f'''
                 <div class="nonprofit-link">
-                    <span class="nonprofit-icon">🏛️</span>
+                    <span class="nonprofit-icon"></span>
                     <a href="{propublica_url}" target="_blank">View Nonprofit Profile (ProPublica)</a>
                 </div>
                 '''
