@@ -1,4 +1,4 @@
-# Golden-Handcuff Plan Monitor (Top Hat Plan) API Monitor
+# Golden-Handcuffs Plan Monitor (Top Hat Plan) API Monitor
 
 Python script to monitor United States Department of Labor Top Hat Plan Search API for new filings.
 
